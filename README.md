@@ -17,4 +17,4 @@ The following custom python scripts were using for developing the seventh pandem
 <b>Script 5:</b> Assigns core genes into MGT levels based on a multifactorial preference system. Genes are organised depending on minimum distance of separation, selection pressure and reliability.
 
 
-<b>Script 6:</b> A blast-based algorithm for in-silico typing of V. cholerae genomes. 
+<b>insilico-genotyper.zip:</b> A blast-based algorithm for in-silico typing of V. cholerae genomes. 
